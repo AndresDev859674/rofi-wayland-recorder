@@ -10,4 +10,4 @@ You have to clone the repo, and make sure that your linux distro have avaible th
 ```bash
 wf-recorder, rofi, slurp, libnotify, yad, pulseaudio-utils, ffmpeg
 ```
-And that's it!! Make sure
+Run `chmod +x ./recorder` and run `./recorder` and that it!!!
