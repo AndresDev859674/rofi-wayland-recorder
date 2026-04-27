@@ -12,3 +12,12 @@ wf-recorder, rofi, slurp, libnotify, yad, pulseaudio-utils, ffmpeg
 ```
 Run `chmod +x ./recorder` and run `./recorder` and that it!!!
 
+##### Tested in a 2011 PC, CPU : intel i3 2120 and its integrated graphics and 10GB of RAM
+
+# Example
+Click the video, Its Compressed by Constrict, this is not the **original recording**
+
+https://github.com/user-attachments/assets/d3cebc21-172e-40e6-a6cf-a12e58e31191
+
+
+
